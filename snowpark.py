@@ -9,9 +9,9 @@ from snowflake.snowpark import functions as fn
 import numpy as np
 import pandas as pd
 conn_config = {
-    "account": "he84082.europe-west4.gcp",
-    "user": "Mohan89",
-    "password": "Test789@#",
+    "account": "",
+    "user": "",
+    "password": "",
     "role" : "ACCOUNTADMIN",
     "warehouse" : "COMPUTE_WH",
     "database" : "MOHAN",
